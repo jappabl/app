@@ -27,7 +27,7 @@ pool = socketpool.SocketPool(wifi.radio)
 requests = adafruit_requests.Session(pool, ssl.create_default_context())
 
 # this code allows us to connect to the firebase database
-FIREBASE_URL = "https://firedetectiongame-default-rtdb.firebaseio.com/"
+FIREBASE_URL = "ufgifugweiufgweiufgewiufgew"
 firebase_path = FIREBASE_URL + "data.json"
 
 def send_data(x):
